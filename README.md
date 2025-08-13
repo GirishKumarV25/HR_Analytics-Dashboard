@@ -44,7 +44,7 @@ This dashboard consolidates HR data into **clear, visual insights**:
 ---
 
 ## 📸 Dashboard Preview
-![Dashboard Preview](screenshots/dashboard_preview.png)
+![Dashboard Preview](dashboard_preview.png)
 
 ---
 
